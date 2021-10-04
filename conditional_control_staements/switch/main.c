@@ -1,3 +1,4 @@
+//switch_case
 #include<stdio.h>
 main()
 {

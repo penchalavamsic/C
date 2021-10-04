@@ -1,3 +1,4 @@
+//multiplication_table
 #include<stdio.h>
 #include<conio.h>
 main()

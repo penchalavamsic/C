@@ -1,3 +1,4 @@
+//sum_of_n_numbers
 #include<stdio.h>
 #include<conio.h>
 void main()

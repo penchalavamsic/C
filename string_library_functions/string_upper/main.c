@@ -1,4 +1,4 @@
-#include<stdio.h>
+//string_upper
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -8,7 +8,8 @@ void main()
 	system("cls");
 	printf("enter a string\n");
 	gets(sname);
-	strrev(sname);
+	strupr(sname);
 	puts(sname);
 	getchar();
+	
 }

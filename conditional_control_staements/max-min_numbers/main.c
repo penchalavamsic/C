@@ -1,3 +1,4 @@
+//max-min number
 #include<stdio.h>
 main()
 {
