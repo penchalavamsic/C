@@ -1,4 +1,4 @@
-//string_length
+/*string_length*/
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
