@@ -1,4 +1,4 @@
-//bubble_sort
+/*bubble_sort*/
 #include<stdio.h>
 main()
 {
